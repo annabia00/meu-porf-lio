@@ -1,9 +1,9 @@
 body{
-background-color: rgb(243, 84, 217);
+background-color: rgb(253, 91, 226);
 margin: 0%;
 font-size: 30%;
 font-family:'Arial Narrow', sans-serif;
-text-align: center;
+text-align: left;
 border-bottom-color: rgb(177, 21, 73);
 }
 
@@ -14,7 +14,8 @@ img{
 
 .eu-sou-a-Anna{
     font-family: fantasy;
-    font-size: medium;
+    width: 25%;
     font-style: italic;
+    color: rgb(109, 21, 68);
 }
 
